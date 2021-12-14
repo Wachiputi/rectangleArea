@@ -6,6 +6,7 @@ public class area{
         //creates an object of class AreaRect
         Scanner input = new Scanner(System.in);
         AreaRect c1 = new AreaRect();
+        //prompt the user to enter length and width
         System.out.println("enter the length :");
         double length = input.nextDouble();
         System.out.println("Enter the breadth ");
